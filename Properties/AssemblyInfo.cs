@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Zoho Desk AD Sync")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A tool to sync AD users to Contacts in Zoho Desk")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("West Somerset Academies Trust")]
 [assembly: AssemblyProduct("Zoho Desk AD Sync")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCopyright("Copyright © West Somerset Academies Trust 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
