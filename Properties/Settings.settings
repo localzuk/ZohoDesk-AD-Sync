@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Zoho_Desk_AD_Sync.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ZohoAPIAuthURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://accounts.zoho.com/oauth/v2/auth</Value>
+    </Setting>
+    <Setting Name="ZohoAPIURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://desk.zoho.com/api/v1/</Value>
+    </Setting>
+    <Setting Name="ADDomain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ADBaseOU" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZohoClientID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ZohoClientSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
